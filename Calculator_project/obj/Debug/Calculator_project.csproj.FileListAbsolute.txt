@@ -1,0 +1,20 @@
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\bin\Debug\Calculator_project.exe.config
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\bin\Debug\Calculator_project.exe
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\bin\Debug\Calculator_project.pdb
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csprojAssemblyReference.cache
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.Form1.resources
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.Properties.Resources.resources
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.GenerateResource.cache
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.exe
+C:\Users\Andreea\source\repos\Calculator_project\Calculator_project\obj\Debug\Calculator_project.pdb
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\bin\Debug\Calculator_project.exe.config
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\bin\Debug\Calculator_project.exe
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\bin\Debug\Calculator_project.pdb
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csprojAssemblyReference.cache
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.Form1.resources
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.Properties.Resources.resources
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.GenerateResource.cache
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.exe
+C:\Users\Andreea\OneDrive\Desktop\FACULTATE\ANUL 1\SEMESTRUL 2\PCLP 2\PROBLEME PCLP 2\Calculator_project\Calculator_project\obj\Debug\Calculator_project.pdb
